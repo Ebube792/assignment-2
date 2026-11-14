@@ -27,11 +27,7 @@ views/                  EJS templates
   error.ejs             Error page (generated)
   partials/header.ejs   Shared head + navbar
   partials/footer.ejs   Shared footer with GitHub and LinkedIn links
-public/                 Static assets
-  stylesheets/          CSS
-  javascripts/          Client JS
-  images/               Images
-```
+
 
 ## Run locally
 
@@ -40,12 +36,12 @@ npm install
 npm start
 ```
 
-Then open http://localhost:3000
+this is the link http://localhost:3000
 
 ## Sources and citations
 
 - Bootstrap 5.3.3 (https://getbootstrap.com), loaded via the jsDelivr CDN.
 - Font Awesome 6.5.2 (https://fontawesome.com), loaded via cdnjs.
 - Express Generator scaffold (https://expressjs.com/en/starter/generator.html).
-- Code taken from course lectures: ADD ANY LECTURE CODE YOU REUSED.
-- ADD ANY OTHER EXTERNAL CODE HERE (who wrote it, where it came from). Keep it under 10% of the project.
+- code i used from lectures: (if any)
+- Ai code i used: (if any)
