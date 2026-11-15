@@ -27,6 +27,10 @@ views/                  EJS templates
   error.ejs             Error page (generated)
   partials/header.ejs   Shared head + navbar
   partials/footer.ejs   Shared footer with GitHub and LinkedIn links
+public/                 Static assets
+  stylesheets/          CSS
+  images/               Images
+```
 
 
 ## Run locally
