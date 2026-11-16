@@ -2,7 +2,7 @@
 
 Personal portfolio built with Node.js, Express and the EJS templating engine.
 
-**Live site:** ADD YOUR RENDER URL HERE
+**Live site:** https://ebube792.github.io/assignment-2/
 **Author:** Ebube Okoronkwo
 
 ## How the project was created
@@ -47,5 +47,3 @@ this is the link http://localhost:3000
 - Bootstrap 5.3.3 (https://getbootstrap.com), loaded via the jsDelivr CDN.
 - Font Awesome 6.5.2 (https://fontawesome.com), loaded via cdnjs.
 - Express Generator scaffold (https://expressjs.com/en/starter/generator.html).
-- code i used from lectures: (if any)
-- Ai code i used: (if any)
