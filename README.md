@@ -2,7 +2,7 @@
 
 Personal portfolio built with Node.js, Express and the EJS templating engine.
 
-**Live site:** https://ebube792.github.io/assignment-2/
+**Live site:** https://assignment-2-cciy.onrender.com
 **Author:** Ebube Okoronkwo
 
 ## How the project was created
